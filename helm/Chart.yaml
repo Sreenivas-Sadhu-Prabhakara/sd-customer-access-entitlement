@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-customer-access-entitlement
+description: "BIAN Service Domain: Customer Access Entitlement (Administer pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - administer
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Customer Management"
+  bian/asset-type: "Access Entitlement"
+  bian/control-record: "Access Entitlement Administrative Plan"
